@@ -468,4 +468,7 @@
         font-size: 28px;
         margin-top: 7px;
     }
+    .owl-carousel .owl-dots {
+        text-align: center;
+    }
 }
